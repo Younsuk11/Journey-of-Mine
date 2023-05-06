@@ -5,7 +5,7 @@
 #### link : https://dacon.io/competitions/open/235536/overview/description
 
 
-### **0. DL library : pytorch**
+### **0.ML library : scikit-learn**
 
 ### **1. DATA 구성**
    * title
