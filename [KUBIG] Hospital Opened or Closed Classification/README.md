@@ -6,7 +6,7 @@
 
 "병원 재무 데이터와 AI를 활용하여, 병원의 개업 또는 폐업 여부를 분류 예측"
 
-### **0. DL library : pytorch**
+### **0. DL library : scikit-learn**
 
 ### **1. DATA 구성**
    * Target : open / close
