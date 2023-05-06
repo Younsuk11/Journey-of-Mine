@@ -1,4 +1,4 @@
-## Deep Learning NLP Project
+## [Machine Learning Project] : Classification
 
 #### Team : 15기 고태영, 반민정, 염윤석, 최경석
 ### 병원 개/폐업 분류 예측 경진대회
