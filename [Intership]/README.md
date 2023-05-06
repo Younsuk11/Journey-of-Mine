@@ -1,4 +1,4 @@
-# Bioinformatcis Intership
+# Bioinformatics Intership
 
 > Interval 21.6 ~ 22.3
 
