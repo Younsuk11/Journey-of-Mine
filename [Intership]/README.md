@@ -12,7 +12,7 @@ Analyzing "Significant target gene pathway" and "Down or Up -regulated genes" by
 
 **Method**
 * input data : DEG analysis result, Up and Down file(gene list that sorted by LogFC values)
-* Web Crowaling with Chrome Webdriver
+* Web Crawling with Chrome Webdriver
 * python program : DEG_data_preprocessing.py
 
 **result**
