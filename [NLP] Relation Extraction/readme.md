@@ -4,9 +4,9 @@
 > Tigunova, Anna, et al. "PRIDE: Predicting Relationships in Conversations." Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing. 2021.
 ---
 
-Duration : 2023.4.4~2023.6.13
+**Duration** : 2023.4.4~2023.6.13
 
-Team
+**Team**
 * Department : Biomedical Engineering
 * Younsuk Yeom, Chaehyeon Kim, Donghyeon Ki
 
