@@ -28,7 +28,7 @@ the task of identifying and classifying relationships between entities in text.
    * takes full advantage of BERt & understand "smooth" context
 
 ## 2. Results
-<img width="483" alt="image" src="https://github.com/Younsuk11/Journey-of-Mine/assets/88955532/d74b74c8-157e-4b2c-a4a3-efa689d454c2">
+<img width="200" height="100" alt="image" src="https://github.com/Younsuk11/Journey-of-Mine/assets/88955532/d74b74c8-157e-4b2c-a4a3-efa689d454c2">
 
 
 ## 3. Contribution
