@@ -26,8 +26,12 @@ the task of identifying and classifying relationships between entities in text.
    * exchange information between words
 2. Create overlapped chunks
    * takes full advantage of BERt & understand "smooth" context
-  
-## 2. Contribution
+
+## 2. Results
+<img width="483" alt="image" src="https://github.com/Younsuk11/Journey-of-Mine/assets/88955532/d74b74c8-157e-4b2c-a4a3-efa689d454c2">
+
+
+## 3. Contribution
 1. Experiments for Two methods
 2. Comparing each method's performances for each relationship label
 3. Observing which method helps to classify specific relationship
